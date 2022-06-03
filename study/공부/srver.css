@@ -14,3 +14,7 @@ a {
 a:hover {
   color: #e5e5e5;
 }
+img {
+  width: 400px;
+  height: 200px;
+}

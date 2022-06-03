@@ -2,11 +2,11 @@ body {
   background-color: #999;
 }
 h1 {
-  font-size: 40px;
+  font-size: 20px;
   margin-left: 45%;
 }
 a {
-  font-size: 18px;
+  font-size: 10px;
   text-decoration: none;
   color: #444444;
   margin-left: 20px;
@@ -15,9 +15,9 @@ a:hover {
   color: #e5e5e5;
 }
 h2 {
-  font-size: 45px;
+  font-size: 20px;
 }
 p {
-  font-size: 30px;
+  font-size: 10px;
   margin-left: 20px;
 }

@@ -2,15 +2,15 @@ body {
   background-color: #999;
 }
 h1 {
-  font-size: 40px;
+  font-size: 20px;
   margin-left: 48%;
 }
 h2 {
-  font-size: 40px;
+  font-size: 20px;
   margin-left: 35%;
 }
 a {
-  font-size: 18px;
+  font-size: 15px;
   text-decoration: none;
   color: #444444;
   margin-left: 20px;
@@ -29,9 +29,12 @@ td {
   text-align: center;
   border: 1px solid #444444;
   padding: 25px;
-  font-size: 35px;
+  font-size: 15px;
 }
 p {
-  font-size: 20px;
-  color: #444444;
+  font-size: 5px;
+  color: red;
+}
+div {
+  font-size: 5px;
 }

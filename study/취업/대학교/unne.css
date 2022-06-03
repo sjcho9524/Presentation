@@ -192,6 +192,7 @@ header .badges .badge {
   background-position: center;
 }
 .visual .inner {
+  width: 100%;
   height: 860px;
 }
 .visual .title {

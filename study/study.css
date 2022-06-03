@@ -1,0 +1,21 @@
+body {
+  background-color: #999;
+}
+h1 {
+  font-size: 60px;
+  margin-top: 20px;
+  margin-left: 40%;
+}
+a {
+  font-size: 32px;
+  text-decoration: none;
+  color: #444444;
+  margin-left: 20px;
+}
+a:hover {
+  color: #e5e5e5;
+}
+img {
+  width: 600px;
+  height: 800px;
+}

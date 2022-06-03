@@ -1,0 +1,23 @@
+body {
+  background-color: #999;
+}
+h1 {
+  font-size: 40px;
+  margin-left: 45%;
+}
+a {
+  font-size: 18px;
+  text-decoration: none;
+  color: #444444;
+  margin-left: 20px;
+}
+a:hover {
+  color: #e5e5e5;
+}
+h2 {
+  font-size: 45px;
+}
+p {
+  font-size: 30px;
+  margin-left: 20px;
+}

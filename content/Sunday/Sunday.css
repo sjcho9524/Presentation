@@ -1,0 +1,19 @@
+body {
+  background-color: #999;
+}
+div {
+  font-size: 40px;
+  margin-left: 500px;
+}
+img {
+  width: 485px;
+  height: 647px;
+}
+a {
+  font-size: 18px;
+  text-decoration: none;
+  color: #444444;
+}
+a:hover {
+  color: #e5e5e5;
+}
